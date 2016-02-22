@@ -1,0 +1,39 @@
+body {
+	background-color: #DDD;
+}
+
+
+.fondarticle {
+	background-color: #AAA;
+	-moz-box-shadow: 10px 10px 5px 0px #656565;
+	-webkit-box-shadow: 10px 10px 5px 0px #656565;
+	-o-box-shadow: 10px 10px 5px 0px #656565;
+	box-shadow: 10px 10px 5px 0px #656565;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=134, Strength=5);
+	margin: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 3px;
+}
+
+.menucat {
+	background-color: #e5bf43;
+	-moz-box-shadow: 10px 10px 5px 0px #656565;
+	-webkit-box-shadow: 10px 10px 5px 0px #656565;
+	-o-box-shadow: 10px 10px 5px 0px #656565;
+	box-shadow: 10px 10px 5px 0px #656565;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=134, Strength=5);
+}
+
+.menutitre {
+	background-color: #3d7475;
+	-moz-box-shadow: 10px 10px 5px 0px #656565;
+	-webkit-box-shadow: 10px 10px 5px 0px #656565;
+	-o-box-shadow: 10px 10px 5px 0px #656565;
+	box-shadow: 10px 10px 5px 0px #656565;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#656565, Direction=134, Strength=5);
+}
+
+.monTexte{
+	padding-left: 10px;
+}
